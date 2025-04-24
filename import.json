@@ -1,0 +1,281 @@
+{
+  "id": 1,
+  "data": {
+    "image": "/data/upload/1/82ddf823-screenshot_20250420_181246.png"
+  },
+  "annotations": [
+    {
+      "id": 1,
+      "result": [
+                {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 4.5,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "putty"
+            ]
+          },
+          "id": "Q8fkEVkFUc",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 7.9375,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "google_messager"
+            ]
+          },
+          "id": "LmIePvTFYi",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },        {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 11.375,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "powershell"
+            ]
+          },
+          "id": "TPAfCPDocJ",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 14.8125,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "file_explorer"
+            ]
+          },
+          "id": "JiPEmrC76Q",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+		
+
+        {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 18.25,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "chrome-herka"
+            ]
+          },
+          "id": "LR3SnLZW4Y",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 21.6875,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "web_outlook"
+            ]
+          },
+          "id": "Oe_cjiCdxy",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+		{
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 25.125,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "chrome-hank_chou"
+            ]
+          },
+          "id": "HRtEVW0sZJ",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.5625,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "notepad++"
+            ]
+          },
+          "id": "eQbE2dWTfA",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 32,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "TortoiseGit"
+            ]
+          },
+          "id": "c9EeWKCKmH",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 35.4375,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "CMD"
+            ]
+          },
+          "id": "yGIfDRPq7G",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 38.875,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Task_Scheduler"
+            ]
+          },
+          "id": "uRa8H8xMj4",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+
+        {
+          "original_width": 1600,
+          "original_height": 900,
+          "image_rotation": 0,
+          "value": {
+            "x": 42.3125,
+            "y": 93.44444444,
+            "width": 3.0625,
+            "height": 6.444444444,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Task_Manager"
+            ]
+          },
+          "id": "JE21Zg6ZeY",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        }
+      ],
+      "created_username": " y@gmail.com, 1",
+      "created_ago": "1 day, 6 hours",
+      "completed_by": {
+        "id": 1,
+        "first_name": "",
+        "last_name": "",
+        "avatar": null,
+        "email": "y@gmail.com",
+        "initials": "y@"
+      },
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2025-04-22T05:23:29.875668Z",
+      "updated_at": "2025-04-23T12:03:01.292095Z",
+      "draft_created_at": "2025-04-22T03:44:35.455824Z",
+      "lead_time": 6286.34,
+      "import_id": null,
+      "last_action": null,
+      "bulk_created": false,
+      "task": 1,
+      "project": 1,
+      "updated_by": 2,
+      "parent_prediction": null,
+      "parent_annotation": null,
+      "last_created_by": null
+    }
+  ],
+  "predictions": []
+}
